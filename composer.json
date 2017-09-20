@@ -1,0 +1,12 @@
+{
+    "name": "gm/php-common-mapper",
+    "description": "Паттерн \"Data Mapper\".",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Common\\": "src/"
+        }
+    }
+}
